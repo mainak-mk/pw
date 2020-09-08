@@ -1,0 +1,175 @@
+body {/*index.html*/
+  background-color: #EAF6F6;
+}
+
+.indextable {
+
+  background-color: #ff2e63;
+  color: white;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #6a2c70;
+  border-radius: 5px;
+}
+.indexT2:hover {
+
+  background-color: red;
+  color: white;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #6a2c70;
+  border-radius: 5px;
+}
+
+ /********************hobbies.html************************/
+.hobbyBG {
+
+  background-color: #f9ed69;
+}
+
+.hobbylist {
+
+  background-color: #b83b5e;
+  width: 250px;
+  color: white;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #6a2c70;
+  border-radius: 5px;
+}
+.hobbyhead {
+  background-color: #ff2e63;
+  color: white;
+  text-align: center;
+}
+ /*********************** contact-info.html*******************************/
+ .contactbody {
+
+   background-color: #d2e603;
+ }
+.contacth2 {
+
+  color: white;
+  background-color: #2ec1ac;
+}
+.contactlist {
+
+  background-color: #b83b5e;
+  width: 250px;
+  color: white;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #6a2c70;
+  border-radius: 5px;
+}
+.contactform {
+
+  background-color: #f1f1e8;
+  color: black;
+  border-width: 4px;
+  border-style: solid;
+  border-color: #6a2c70;
+  border-radius: 5px;
+}
+ /************************************************************************/
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 6%
+}
+
+/* Heading Tags ******************************************/
+h1:hover {
+  color: #80ff00;
+  text-shadow: 2px 2px 5px #14B1AB;
+  background-color: #C70039;
+}
+
+h2 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+.mkheading {
+  color: #C70039;
+  text-shadow: 2px 2px 5px red;
+  background-color: orange;
+}
+/*********************IMAGES TAGS*****************************/
+img:hover {
+  background-color: cyan;
+  border-radius: 10%;
+}
+
+.mkimg {
+  background-color: #ffeb00;
+  border-radius: 10%;
+}
+
+/* Paragraph TAGS********************************************** */
+.mk-para {
+  background-color: green;
+  color: white;
+  text-shadow: 2px 2px 5px red;
+}
+
+.para2:hover {
+
+  background-color: #8d93ab;
+  border-width: 3px;
+  border-color: #dd2c00;
+  border-style: solid;
+  border-radius: 5px;
+}
+
+.paraX {
+
+  background-color: #e97171;
+  border-width: 3px;
+  border-color: #81b214;
+  border-style: solid;
+  border-radius: 5px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+/*************************Tables-Tags*****************************/
+.mklists {
+
+  background-color: #75ecff;
+  width: 350px;
+  border-width: 4px;
+  border-style: solid;
+  border-color: green;
+  border-radius: 5px;
+  font-family: 'Merienda', cursive;
+}
+
+.mklist2:hover {
+
+  background-color: #30e3ca;
+  width: 350px;
+  border-width: 4px;
+  border-style: solid;
+  border-color: blue;
+  border-radius: 5px;
+  font-family: 'Merienda', cursive;
+}
+
+
+.tablehead {
+
+  background-color: #aeffff;
+  border-color: #89594e;
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 4px;
+}
+
+.tablebody {
+
+  background-color: #79a6c6;
+}
